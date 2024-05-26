@@ -26,6 +26,8 @@ body {
     background-color: white;
     display: inline-flex;
 
+    max-height: 300px;
+
     position: fixed;
     top: 45%;
     left: 50%;
