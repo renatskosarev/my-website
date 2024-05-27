@@ -54,3 +54,22 @@ p {
     font-size: 1em;
     width: 440px;
 }
+
+@media (max-width: 770px) {
+    #card {
+        margin-top: 100px;
+        display: contents;
+    }
+
+    #right-panel {
+        margin: 0;
+    }
+
+    #avatar {
+        border-radius: 10%;
+    }
+
+    p {
+        width: 90%;
+    }
+}
