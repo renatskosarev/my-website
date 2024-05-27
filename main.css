@@ -46,6 +46,11 @@ body {
     margin: 35px;
 }
 
+h1 {
+    font-size: 2em;
+}
+
 p {
+    font-size: 1em;
     width: 440px;
 }
